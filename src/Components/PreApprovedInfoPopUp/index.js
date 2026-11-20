@@ -5,6 +5,7 @@ import { faChevronLeft, faChevronRight, faTimes } from "@fortawesome/free-solid-
 import "./index.css";
 
 const slides = [
+  { src: "assets/img/IDCO_Onboarding.png", alt: "IDCO_Onboarding" },
   { src: "assets/img/Pop-Up_Change of Use.png", alt: "Change of Use" },
   { src: "assets/img/Pre approved plan popup 9.jpg", alt: "SUJOG pre-approved building plans", hasResources: true },
   { src: "assets/img/slide/Media.jpg", alt: "Trade licence and Shop and Establishment registration announcement" },
